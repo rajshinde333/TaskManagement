@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  margin-top: 51px;
+}
+
+a {
+  outline: none;
+  text-decoration: none;
+}
+
+.loader {
+  margin-top: 22%;
+}
